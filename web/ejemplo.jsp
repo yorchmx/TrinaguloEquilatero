@@ -7,6 +7,7 @@
         <title>Ejercicio 1</title>
     </head>
     <body>
+        <!--comentario github-->
         <h1>Resultados:</h1>
         <%
             String lado=request.getParameter("Base");
